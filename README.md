@@ -1,2 +1,3 @@
 # Drumkit
-This is keyPress drum
+This is keyPress Drum drum
+You can play the drum here:
