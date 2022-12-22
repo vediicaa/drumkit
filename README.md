@@ -1,2 +1,2 @@
-# drumkit
+# Drumkit
 This is keyPress drum
